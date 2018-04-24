@@ -74,7 +74,6 @@ class CTArticle extends Component{
                     // rightIcon2='heart'
                     // rightIconAction2={()=>this.goBack()}
                 
-                
                     title={Article!=null?Article.Title:"..."}
                 />
                     {

@@ -1,5 +1,5 @@
 //link api 
-export const website = 'http://thuanhanhmobileapp.thietkevuondao.com'; 
+export const website = 'http://thuanhanhapp.vdapp.net'; 
 export const api = website+"/api";
 
 export const api_sp = api+"/SanPham";
